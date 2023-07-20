@@ -10,8 +10,8 @@
 
 ## 工作及教育经历
     
-* 慕尼黑工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 人工智能专业（Robotics, Cognition, Intelligence）-研究生         
-* 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 机械电子专业-本科  
+* 慕尼黑工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 人工智能专业（Robotics, Cognition, Intelligence）- 硕士研究生         
+* 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 机械电子专业 - 本科  
 
 ## 专业技能
 
@@ -33,23 +33,24 @@
       （2）通过不同类型的奖励模型实现离线控制
       （3）通过多个 LoRA 模块以及可学习的 Control Tokens 实现在线控制
       （4）提出可学习的 LoRA 知识融合策略
-    * demo演示地址，github地址 
+    * github地址：https://github.com/iphosi/Text-Complexity-Control/tree/master
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
+2. 慕尼黑工业大学 - 复杂与简化文本匹配 - 独立开发 - 202210- 202304 
+    * 功能：实现源文本与目标文本之间的内容匹配，识别丢失的源文本信息以及目标文本中的错误与幻觉信息
+    * 技术：Attention Visualization, PhraseBERT
+    * 难点：注意力权重倾向于集中在特殊字符上导致无效匹配
+    * 成果：
+      （1）为 transformer 库的 fork 增添了输出加权 value 向量模的功能，有效减少了无效匹配的出现
+      （2）通过结合短语级与单词级匹配的结果识别丢失、错误、幻觉信息
 
 ## 获奖经历
 * 2017-2018学年同济大学本科优秀学生奖学金三等奖
 * DAAD进修课程奖学金
 
 ## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
+* github: https://github.com/iphosi
 
 ## 其他信息 
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等 
+* 擅长联想
+* 乐于助人，兴趣广泛，喜欢科普类读物以及视频 
 
