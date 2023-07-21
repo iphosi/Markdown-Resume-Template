@@ -26,7 +26,7 @@
 
 1. 慕尼黑工业大学 - 文本复杂度控制 - 独立开发 - 202303-202309 
     * 功能：实现对生成模型输出文本的复杂度控制
-    * 技术：RLHF, Adapter-Based Tuning
+    * 技术：RLHF, Adapter-Based Tuning, DistilBERT
     * 难点：训练数据以及计算资源较少，子任务知识融合框架不完善
     * 成果：
       
