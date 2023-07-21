@@ -25,7 +25,7 @@
 
 1. Technical University of Munich - Text Complexity Control - independently developed - 202303-202309
     * Goal: Develop a strategy to control the output text complexity of the language model.
-    * Techniques: RLHF, Adapter-Based Tuning
+    * Techniques: RLHF, Adapter-Based Tuning, DistilBERT
     * Challenges: Data and Computation Resource Scarcity, Lack of Adapter Fusion Framework
     * Results:
       
