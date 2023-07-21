@@ -1,34 +1,45 @@
  <center>
-     <h1>XXX</h1>
+     <h1>Resume</h1>
  </center>
 
-## 个人信息 
+## Personal Information 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* Gender: Male&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Age: 25  
+* Telephone：+49 01627032494 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  E-mail：jiaqi.hua@tum.de   
+* Major: Robotics, Cognition, Intelligence &emsp;&emsp;&emsp;&emsp;&emsp; Position:
 
-## 工作及教育经历
+## Education
+    
+* Technical University of Munich&emsp;&emsp;&emsp;&emsp;&emsp;2021.4~2023.9&emsp;&emsp;&emsp;&emsp; Robotics, Cognition, Intelligence - Master      
+* Tongji University&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; Mechatronic - Bachelor
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+## Skills
 
-## 专业技能
+* Coding: Python (PyCharm IDE, Linux Terminal), Data Structure
+* Machine Learning: Pytorch, HuggingFace, Scikit-Learn
+* Version Control: Git
+* Database: SQL
+* Language: English IELTS 7.5, German TestDaF 4
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+## Project
 
-## 项目经历
+1. Technical University of Munich - Text Complexity Control - independently developed - 202303-202309
+    * Goal: Develop a strategy to control the output text complexity of the language model.
+    * Techniques: RLHF, Adapter-Based Tuning
+    * Challenges: Data and Computation Resource Scarcity, Lack of Adapter Fusion Framework
+    * Results:
+      
+      (1) Develop a less resource-intensive training strategy.
+      
+      (2) Offline control via different types of reward models.
+      
+      (3) Online Control via multiple adapter modules and learnable control tokens.
+      
+      (4) Develop a learnable weighting strategy for LoRA adapters.
+      
+    * GitHub: https://github.com/iphosi/Text-Complexity-Control/tree/master
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
-
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+2. Technical University of Munich - Visualizing Text Alignments - 负责后端开发 - 201309- 201401 
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
