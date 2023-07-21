@@ -16,7 +16,7 @@
 ## 专业技能
 
 * 熟练使用 Python 编程语言以及 PyCharm IDE 断点调试
-* 熟悉 PyTorch, HuggingFace 等机器学习框架
+* 熟悉 PyTorch, HuggingFace, Scikit-Learn 等机器学习框架
 * 掌握 Git 代码版本控制以及 Linux 命令行常用指令
 * 掌握基础数据结构和算法的基本原理
 * 了解数据库以及 SQL 基础知识
