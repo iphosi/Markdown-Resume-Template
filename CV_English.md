@@ -4,9 +4,9 @@
 
 ## Personal Information 
 
-* Gender: Male&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Age: 25  
-* Telephone：+49 01627032494 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  E-mail：jiaqi.hua@tum.de   
-* Major: Robotics, Cognition, Intelligence &emsp;&emsp;&emsp;&emsp;&emsp; Position:
+* Gender: Male&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Age: 25  
+* Telephone：+49 01627032494&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E-mail：jiaqi.hua@tum.de   
+* Major: Robotics, Cognition, Intelligence&emsp;&emsp;&emsp;&emsp;&emsp;Position:
 
 ## Education
     
@@ -21,7 +21,7 @@
 * Database: SQL
 * Language: English IELTS 7.5, German TestDaF 4
 
-## Project
+## Projects
 
 1. Technical University of Munich - Text Complexity Control - independently developed - 202303-202309
     * Goal: Develop a strategy to control the output text complexity of the language model.
