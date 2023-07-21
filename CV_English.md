@@ -11,7 +11,7 @@
 ## Education
     
 * Technical University of Munich&emsp;&emsp;&emsp;&emsp;&emsp;2021.4~2023.9&emsp;&emsp;&emsp;&emsp; Robotics, Cognition, Intelligence - Master      
-* Tongji University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.10&emsp;&emsp;&emsp;&emsp;Mechatronic - Bachelor
+* Tongji University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.10&emsp;&emsp;&emsp;&emsp;Mechatronic - Bachelor
 
 ## Skills
 
