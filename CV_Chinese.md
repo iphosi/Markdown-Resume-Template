@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
     
-* 慕尼黑工业大学 &emsp;&emsp;&emsp;&emsp;&emsp;2021.4~2023.9&emsp;&emsp;&emsp;&emsp; 人工智能专业 (Robotics, Cognition, Intelligence) - 硕士研究生         
+* 慕尼黑工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.4~2023.9&emsp;&emsp;&emsp;&emsp;  人工智能专业 (Robotics, Cognition, Intelligence) - 硕士研究生         
 * 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.10&emsp;&emsp;&emsp;&emsp;机械电子工程专业 - 本科  
 
 ## 专业技能
