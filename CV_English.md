@@ -6,7 +6,7 @@
 
 * Gender: Male &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Age: 25  
 * Telephone：+49 01627032494&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;E-mail：jiaqi.hua@tum.de   
-* Major: Robotics, Cognition, Intelligence&emsp;&emsp;&emsp;  Position: Natural Language Processing Engineer
+* Major: Robotics, Cognition, Intelligence&emsp;&emsp;&emsp;  Area: Natural Language Processing
 
 ## Education
     
