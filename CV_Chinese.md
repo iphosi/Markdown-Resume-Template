@@ -4,7 +4,7 @@
 
 ## 个人信息 
 
-* 姓 名：华家祺&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;学 历：硕士
+* 姓 名：华家祺&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 学 历：硕士
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：25  
 * 手 机：13681821476 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：jiaqi_hua@126.com    
 * 专 业：人工智能 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：nlp 算法工程师
